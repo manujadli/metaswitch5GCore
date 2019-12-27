@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.metaswitch.metaswitch5GCore.ALMControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.826 s <<< FAILURE! - in org.metaswitch.metaswitch5GCore.ALMControllerTest
+getHello  Time elapsed: 1.089 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Hello Controller> but was: <Hello world!>
+	at org.metaswitch.metaswitch5GCore.ALMControllerTest.getHello(ALMControllerTest.java:26)
+

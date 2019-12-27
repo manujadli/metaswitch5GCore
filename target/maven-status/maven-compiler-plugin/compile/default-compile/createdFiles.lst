@@ -1,0 +1,7 @@
+org\metaswitch\metaswitch5GCore\service\HelloServiceImpl.class
+org\metaswitch\metaswitch5GCore\controller\ALMController.class
+org\metaswitch\metaswitch5GCore\model\Assembly.class
+org\metaswitch\metaswitch5GCore\service\HelloService.class
+org\metaswitch\metaswitch5GCore\respsitory\HelloRepository.class
+org\metaswitch\metaswitch5GCore\Metaswitch5GCoreApplication.class
+org\metaswitch\metaswitch5GCore\respsitory\HelloRepositoryImpl.class
